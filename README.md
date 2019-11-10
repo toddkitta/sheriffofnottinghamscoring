@@ -5,12 +5,16 @@ Easy scoring for the Sheriff of Nottingham card game by Arcane Wonders.
 There are two sheets.
 
 ## Data entry
+![alt text](images/ScoringDataEntry.png)
+
 * Enter players' names across the top
 * Enter quantities and values
 
 NOTE: If you have fewer than five players, simply do not enter any data for the remaining columns.
 
 ## Results
+![alt text](images/ScoringResults.png)
+
 Switch to the 'Results' sheet to see who won. Note the following features:
 
 * Each player is ranked and the first 3 players are given Gold, Silver, Bronze color coding.
